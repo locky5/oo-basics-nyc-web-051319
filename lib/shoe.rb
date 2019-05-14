@@ -10,4 +10,8 @@ class Shoe
   end
   
   def cobble=(repaired)
+    @cobble = repaired
+  end
+  
+  def cobble
 end  
