@@ -10,10 +10,6 @@ class Shoe
   end
   
   def cobble=(repaired)
-    @cobble = repaired
-  end
-  
-  def cobble
-    @cobble 
+    puts "Your shoe is as good as new!"
   end
 end  
